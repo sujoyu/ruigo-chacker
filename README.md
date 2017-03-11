@@ -1,6 +1,8 @@
 # ruigo-checker
 近くにある類語をチェックするよ。Windows用コンソールアプリだよ。
 
+ダウンロード: https://github.com/sujoyu/ruigo-checker/releases
+
 # Usage
 ```
 java -jar ruigo_checker-assembly-1.0.jar <text> <span>
