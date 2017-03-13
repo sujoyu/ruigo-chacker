@@ -37,13 +37,13 @@
 # ruigo-checker(.jar)
 近くにある類語をチェックするよ。コンソールアプリだよ。
 
-# Usage
+## Usage
 ```
 java -jar ruigo_checker-assembly-1.0.jar <text> <span>
 java -jar ruigo_checker-assembly-1.0.jar "銀座でお寿司と手巻き寿司と卵焼きを食べたい。" 3
 ```
 
-# Output
+## Output
 ```
 # position,length,id
 4,2,0
