@@ -10,7 +10,7 @@
 
 ## A. 共通
 
-1. https://github.com/sujoyu/ruigo-checker/releases
+1. https://github.com/sujoyu/ruigo-checker/releases  
     から`ruigo_checker.zip`をダウンロードしてきて、適当な場所に展開
 1. Javaをインストール( https://www.java.com/ja/ )
 2. Wordを開く
@@ -27,7 +27,7 @@
 ## C. 既存文書にマクロを追加する場合
 
 6. 既存の文書を開く
-6. `開発` -> `文書テンプレート` -> `テンプレート` -> `文書の作成に使用するテンプレート`
+6. `開発` -> `文書テンプレート` -> `テンプレート` -> `文書の作成に使用するテンプレート`  
     の、`添付(A)...`から、`類語チェッカー.dotm`を設定 -> `OK`
 6. 警告が出るが、`コンテンツを有効化`
 7. `開発` -> `マクロ` -> `RuigoChecker`
