@@ -16,7 +16,7 @@ object Main {
   def main(args: Array[String]): Unit = {
     val (text, warnSpan) = args match {
       case Array(t, s) => (t, s.toInt)
-      case _ => println("error: 引数は2つだよ。")
+      case _ => println("Usage: java -jar ruigo_checker-assembly-1.0.jar <text> <span>")
         return
     }
 
